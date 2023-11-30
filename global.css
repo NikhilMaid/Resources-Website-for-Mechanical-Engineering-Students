@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-quicksand: Quicksand;
+    --font-crimson-text: "Crimson Text";
+    --font-crimson: Crimson;
+  
+    /* font sizes */
+    --font-size-base-5: 0.97rem;
+    --font-size-15xl-5: 2.16rem;
+    --font-size-7xl: 1.63rem;
+  
+    /* Colors */
+    --color-black: #000;
+    --color-darkslategray: #2d2d2d;
+    --color-gainsboro: #d9d9d9;
+    --color-white: #fff;
+  
+    /* Gaps */
+    --gap-3xs: 0.63rem;
+  
+    /* border radiuses */
+    --br-sm-6: 13.6px;
+    --br-12xl-8: 31.8px;
+  }
+  
